@@ -1,0 +1,26 @@
+:root {
+  --fitz: #002fa7;
+  --paper: #ffffff;
+  --bg: var(--paper);
+  --bg-elevated: var(--paper);
+  --ink: var(--fitz);
+  --muted: color-mix(in srgb, var(--fitz) 62%, var(--paper));
+  --line: color-mix(in srgb, var(--fitz) 18%, var(--paper));
+  --accent: var(--fitz);
+  --font: "Iowan Old Style", "Palatino Linotype", Palatino, "Times New Roman", serif;
+  --font-ui: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --measure: 38rem;
+  --page: 44rem;
+  --sidebar: 11.5rem;
+  --space: 1.25rem;
+  --radius: 2px;
+}
+
+html[data-page="photographs"] {
+  --bg: var(--fitz);
+  --bg-elevated: color-mix(in srgb, var(--paper) 12%, var(--fitz));
+  --ink: var(--paper);
+  --muted: color-mix(in srgb, var(--paper) 78%, var(--fitz));
+  --line: color-mix(in srgb, var(--paper) 28%, var(--fitz));
+  --accent: var(--paper);
+}

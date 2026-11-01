@@ -1,0 +1,28 @@
+{
+  "photos": [
+    {
+      "id": "sample-horizon",
+      "filename": "sample-horizon.svg",
+      "url": "/media/photos/sample-horizon.svg",
+      "title": "Placeholder photograph",
+      "caption": "Replace this sample with one of your own uploads.",
+      "uploadedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "sample-quiet",
+      "filename": "sample-quiet.svg",
+      "url": "/media/photos/sample-quiet.svg",
+      "title": "Placeholder photograph",
+      "caption": "Title and caption are editable once a backend is connected.",
+      "uploadedAt": "2026-01-02T00:00:00Z"
+    },
+    {
+      "id": "sample-grain",
+      "filename": "sample-grain.svg",
+      "url": "/media/photos/sample-grain.svg",
+      "title": "Placeholder photograph",
+      "caption": "Upload from the photographs page while the local server is running.",
+      "uploadedAt": "2026-01-03T00:00:00Z"
+    }
+  ]
+}

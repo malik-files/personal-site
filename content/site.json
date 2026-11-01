@@ -1,0 +1,10 @@
+{
+  "name": "Your Name",
+  "tagline": "Photographs and selected work.",
+  "githubUrl": "https://github.com/your-username",
+  "email": "hello@example.com",
+  "about": [
+    "This is placeholder copy for the about section. Replace it with a short introduction: who you are, what you photograph, and the kind of work you take on.",
+    "A second paragraph can cover process, location, or how to get in touch. Keep it brief; the photographs should do most of the talking."
+  ]
+}

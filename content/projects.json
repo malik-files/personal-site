@@ -1,0 +1,18 @@
+{
+  "projects": [
+    {
+      "id": "project-one",
+      "title": "Project title",
+      "description": "Placeholder description of a project. Replace this with what you built, the problem it solved, and your role.",
+      "url": "https://github.com/your-username/example-repo",
+      "tags": ["tag", "another"]
+    },
+    {
+      "id": "project-two",
+      "title": "Another project",
+      "description": "Placeholder description. Link this card to a GitHub repository when you have one to show.",
+      "url": "https://github.com/your-username",
+      "tags": ["placeholder"]
+    }
+  ]
+}
